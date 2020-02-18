@@ -34,6 +34,7 @@ class MyApp {
             {title: 'Properties', component: PropertyListPage, icon: "home"},
             {title: 'Brokers', component: BrokerListPage, icon: "people"},
             {title: 'Favorites', component: FavoriteListPage, icon: "star"}
+            {title: 'Tests', component: TestListPage, icon: "key"}
         ];
 
         this.rootPage = WelcomePage;
